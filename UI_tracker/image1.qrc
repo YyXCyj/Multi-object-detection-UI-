@@ -1,0 +1,34 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>images_test/menu.png</file>
+    <file>images_test/selection.png</file>
+    <file>images_test/banben2.png</file>
+    <file>images_test/baocun2.png</file>
+    <file>images_test/baocunmoxing.png</file>
+    <file>images_test/genzong1.png</file>
+    <file>images_test/jishuqi1.png</file>
+    <file>images_test/leibie1.png</file>
+    <file>images_test/mubiao2.png</file>
+    <file>images_test/shexiangji2.png</file>
+    <file>images_test/shipin1.png</file>
+    <file>images_test/shumu1.png</file>
+    <file>images_test/track.png</file>
+    <file>images_test/weizhi1.png</file>
+    <file>images_test/weizhi2.png</file>
+    <file>images_test/wenjian1.png</file>
+    <file>images_test/xingren2.png</file>
+    <file>images_test/yongshi1.png</file>
+    <file>images_test/zhixindu2.png</file>
+    <file>images_test/sort5.jpg</file>
+    <file>images_test/huise.jpg</file>
+    <file>images_test/zhuti.png</file>
+    <file>images_test/yyyyy.png</file>
+    <file>images_test/123456.jpg</file>
+    <file>images_test/10.jpg</file>
+    <file>images_test/11.jpg</file>
+    <file>images_test/12.jpg</file>
+    <file>images_test/13.jpg</file>
+    <file>images_test/15.jpg</file>
+    <file>images_test/bejing.jpg</file>
+  </qresource>
+</RCC>
