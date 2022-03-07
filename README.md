@@ -1,9 +1,6 @@
 # -Detection-and-Tracking
 基于yolo_v3的目标检测跟踪的实现（附带前段）
 
-# Multi-object-detection-UI
-基于yolo_v3的目标检测跟踪的实现（附带前段）
-
 
 README - Multi-object-detection-UI
 
